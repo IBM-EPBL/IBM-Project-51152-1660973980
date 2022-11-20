@@ -1,0 +1,11 @@
+a=1
+b=1.1
+c=6+9j
+d=True
+e="Sathish"
+print(a,type(a))
+print(b,type(b))
+print(c,type(c))
+print(d,type(d))
+print(e,type(e))
+print(a,b,c,d,e)
